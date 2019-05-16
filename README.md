@@ -3,7 +3,7 @@ SSRR
 兼容SSRPanel的自改版SSR(R)后端，可兼容原版SS、SSR，本版本是带有IP自动上报功能的
 
 ## 安装
-- wget https://github.com/ssrpanel/shadowsocksr/archive/master.zip && unzip master && mv shadowsocksr-master shadowsocksr
+- wget https://github.com/TSiin/shadowsocksr/archive/master.zip && unzip master && mv shadowsocksr-master shadowsocksr
 
 ## 更新软件源
 #### CentOS
@@ -104,5 +104,5 @@ pip install -r requestment.txt
 
 数据库机的 iptables、firewall 得对本节点IP开放
 数据库机的 mysql 的对本节点进行授权（不推荐使用root账号）
-再不懂可以进小群咨询 [我要进小群](https://github.com/ssrpanel/SSRPanel/wiki/%E6%88%91%E8%A6%81%E8%BF%9B%E5%B0%8F%E7%BE%A4)
+胖虎修改版：2019年5月17日 F
 
